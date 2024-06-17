@@ -1,5 +1,3 @@
-include: package:HITHER2LYFE/flutter.yaml
-
 analyzer:
   language:
     strict-casts: true
