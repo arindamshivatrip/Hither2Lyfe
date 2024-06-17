@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:ai_recipe_generation/util/json_parsing.dart';
+import 'package:HITHER2LYFE/util/json_parsing.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
 class Recipe {

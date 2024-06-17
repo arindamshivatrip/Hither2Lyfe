@@ -1,4 +1,4 @@
-import 'package:ai_recipe_generation/widgets/highlight_border_on_hover_widget.dart';
+import 'package:HITHER2LYFE/widgets/highlight_border_on_hover_widget.dart';
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';

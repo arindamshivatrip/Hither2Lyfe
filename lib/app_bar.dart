@@ -1,4 +1,4 @@
-import 'package:ai_recipe_generation/util/extensions.dart';
+import 'package:HITHER2LYFE/util/extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:material_symbols_icons/symbols.dart';

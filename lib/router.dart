@@ -1,9 +1,9 @@
-import 'package:ai_recipe_generation/app_bar.dart';
-import 'package:ai_recipe_generation/features/prompt/prompt_screen.dart';
-import 'package:ai_recipe_generation/features/prompt/prompt_view_model.dart';
-import 'package:ai_recipe_generation/features/recipes/saved_recipes_screen.dart';
-import 'package:ai_recipe_generation/widgets/bottom_bar_shape_border.dart';
-import 'package:ai_recipe_generation/widgets/marketplace_button_widget.dart';
+import 'package:HITHER2LYFE/app_bar.dart';
+import 'package:HITHER2LYFE/features/prompt/prompt_screen.dart';
+import 'package:HITHER2LYFE/features/prompt/prompt_view_model.dart';
+import 'package:HITHER2LYFE/features/recipes/saved_recipes_screen.dart';
+import 'package:HITHER2LYFE/widgets/bottom_bar_shape_border.dart';
+import 'package:HITHER2LYFE/widgets/marketplace_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:material_symbols_icons/symbols.dart';
 import 'package:provider/provider.dart';

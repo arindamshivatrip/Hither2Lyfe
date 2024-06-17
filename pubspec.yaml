@@ -1,4 +1,4 @@
-name: ai_recipe_generation
+name: HITHER2LYFE
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -30,9 +30,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  analysis_defaults:
-    path: ../analysis_defaults
-
+    
 flutter:
   uses-material-design: true
 

@@ -1,5 +1,5 @@
-import 'package:ai_recipe_generation/util/device_info.dart';
-import 'package:ai_recipe_generation/util/tap_recorder.dart';
+import 'package:HITHER2LYFE/util/device_info.dart';
+import 'package:HITHER2LYFE/util/tap_recorder.dart';
 import 'package:camera/camera.dart';
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:firebase_core/firebase_core.dart';

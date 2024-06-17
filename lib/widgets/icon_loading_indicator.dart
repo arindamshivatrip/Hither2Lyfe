@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:ai_recipe_generation/theme.dart';
+import 'package:HITHER2LYFE/theme.dart';
 import 'package:flutter/material.dart';
 
 class IconLoadingAnimator extends StatefulWidget {
